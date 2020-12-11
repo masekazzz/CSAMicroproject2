@@ -5,5 +5,7 @@
 
 ### Тест 2(с корректным вводом, N = 4) 
 ![](https://i.ibb.co/Srj8f1p/image.png)
+
 ![](https://i.ibb.co/mb314BB/image.png)
+
 ![](https://i.ibb.co/zHCTkpr/image.png)
